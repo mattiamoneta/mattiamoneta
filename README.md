@@ -6,7 +6,7 @@
   </a>
 
   <h4 align="center">Ciao 👋, sono</h4>
-  <h2 align="center">Mattia</h2>
+  <h3 align="center">Mattia</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
