@@ -20,10 +20,8 @@
   
  
  <div>
-   <p align="center">
     <br />
     <br />
-    Mi trovi anche su:
     <br />
      <p align="center">
         <a href="https://linkedin.com/in/mattia-moneta-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattia-moneta-developer" height="20" width="30" /></a>
