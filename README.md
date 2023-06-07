@@ -12,9 +12,9 @@
   </p>
   
   <p align="center">
+     <br />
+    <br />
     Mi trovi anche su:
-    <br />
-    <br />
     <br />
     <a href="https://www.linkedin.com/in/mattia-moneta-developer/">LinkedIn</a>
     ·
