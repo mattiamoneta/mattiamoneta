@@ -2,11 +2,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/115648465?s=400&v=4" alt="Logo" width="80" height="80">
   </a>
 
-  <h4 align="center">Ciao 👋, sono</h4>
-  <h3 align="center">Mattia</h3>
+  <h3 align="center">Ciao 👋, sono Mattia</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
