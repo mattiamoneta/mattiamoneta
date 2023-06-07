@@ -46,15 +46,16 @@
 <table>
   <tr>
     <td>
-     <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
+      <a href="https://github.com/mattiamoneta/html-css-spotifyweb"><img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/></a>
       <h3 align="center"><a href="https://github.com/mattiamoneta/html-css-spotifyweb">Spotify</a></h3>
     </td>
     <td>
-       <img src="https://github.com/mattiamoneta/vite-boolflix/raw/master/thumbnail.gif" height="160"/>
+      <a href="https://github.com/mattiamoneta/vite-boolflix"> <img src="https://github.com/mattiamoneta/vite-boolflix/raw/master/thumbnail.gif" height="160"/></a>
+      
         <h3  align="center"><a href="https://github.com/mattiamoneta/vite-boolflix">Boolfix</a></h3>
     </td>
      <td>
-             <img src="https://github.com/mattiamoneta/htmlcss-discord/raw/main/thumbnail.gif" height="160"/>
+       <a href="https://github.com/mattiamoneta/htmlcss-discord"><img src="https://github.com/mattiamoneta/htmlcss-discord/raw/main/thumbnail.gif" height="160"/></a>
       <h3 align="center"><a href="https://github.com/mattiamoneta/htmlcss-discord">Discord</a></h3>
     </td>
   </tr>
@@ -63,15 +64,18 @@
   <table>
   <tr>
     <td>
-         <img src="https://github.com/mattiamoneta/js-campominato-dom/raw/main/thumbnail.gif" height="160"/>
+      <a href="https://github.com/mattiamoneta/js-campominato-dom"><img src="https://github.com/mattiamoneta/js-campominato-dom/raw/main/thumbnail.gif" height="160"/></a>
+         
          <h3  align="center"><a href="https://github.com/mattiamoneta/js-campominato-dom">JS Campo Minato</a></h3
     </td>
     <td>
-            <img src="https://github.com/mattiamoneta/laravel-dc-comics/raw/master/thumbnail.gif" height="160"/>
+      <a href="https://github.com/mattiamoneta/laravel-dc-comics"> <img src="https://github.com/mattiamoneta/laravel-dc-comics/raw/master/thumbnail.gif" height="160"/></a>
+           
          <h3  align="center"><a href="https://github.com/mattiamoneta/laravel-dc-comics">Laravel Comics</a></h3>
     </td>
     <td>
-                  <img src="https://github.com/mattiamoneta/vue-boolzapp/raw/main/thumbnail.gif" height="160"/>
+      <a href="https://github.com/mattiamoneta/vue-boolzapp"><img src="https://github.com/mattiamoneta/vue-boolzapp/raw/main/thumbnail.gif" height="160"/></a>
+             
          <h3  align="center"><a href="https://github.com/mattiamoneta/vue-boolzapp">Boolzapp</a></h3>
     </td>
   </tr>
