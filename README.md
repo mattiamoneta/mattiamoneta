@@ -44,7 +44,7 @@
 <br />
 
 <!-- PROGETTO 1 -->
-<table>
+<table frame="box" >
   <tr>
     <td>
       <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
