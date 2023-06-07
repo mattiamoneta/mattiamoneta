@@ -38,7 +38,7 @@
 <h1>Showcase</h1>
 
 
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
