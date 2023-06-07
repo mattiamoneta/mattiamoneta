@@ -35,9 +35,10 @@
 
 <h1>Showcase</h1>
 
-<img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="200"/>
-<img src="https://github.com/mattiamoneta/vite-boolflix/raw/master/thumbnail.gif" height="200"/>
-<img src="https://github.com/mattiamoneta/htmlcss-discord/raw/main/thumbnail.gif" height="200"/>
-<img src="https://github.com/mattiamoneta/vue-boolzapp/raw/main/thumbnail.gif" height="200"/>
-<img src="https://github.com/mattiamoneta/laravel-dc-comics/raw/master/thumbnail.gif" height="200"/>
+<img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
+<img src="https://github.com/mattiamoneta/vite-boolflix/raw/master/thumbnail.gif" height="160"/>
+<img src="https://github.com/mattiamoneta/htmlcss-discord/raw/main/thumbnail.gif" height="160"/>
+<img src="https://github.com/mattiamoneta/vue-boolzapp/raw/main/thumbnail.gif" height="160"/>
+<img src="https://github.com/mattiamoneta/laravel-dc-comics/raw/master/thumbnail.gif" height="160"/>
+<img src="https://github.com/mattiamoneta/js-campominato-dom/raw/main/thumbnail.gif" height="160"/>
 
