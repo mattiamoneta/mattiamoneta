@@ -38,6 +38,58 @@
 <h1>👨‍💻 Showcase Preview</h1>
 <p>Una veloce anteprima di alcuni dei miei lavori top su GitHub!</p>
 
+<table>
+  <tr>
+    <td>
+     <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
+      <h3><a href="#">Spotify</a></h3>
+    </td>
+    <td>
+       <img src="https://github.com/mattiamoneta/vite-boolflix/raw/master/thumbnail.gif" height="160"/>
+        <h3><a href="#">Boolfix</a></h3>
+    </td>
+  </tr>
+ <table>
+   
+   <table>
+  <tr>
+    <td>
+     <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
+      <h3><a href="#">Spotify</a></h3>
+    </td>
+    <td>
+       <img src="https://github.com/mattiamoneta/vite-boolflix/raw/master/thumbnail.gif" height="160"/>
+        <h3><a href="#">Boolfix</a></h3>
+    </td>
+  </tr>
+ <table>
+   
+   <table>
+  <tr>
+    <td>
+     <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
+      <h3><a href="#">Spotify</a></h3>
+    </td>
+    <td>
+       <img src="https://github.com/mattiamoneta/vite-boolflix/raw/master/thumbnail.gif" height="160"/>
+        <h3><a href="#">Boolfix</a></h3>
+    </td>
+  </tr>
+ <table>
+   
+   <table>
+  <tr>
+    <td>
+     <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
+      <h3><a href="#">Spotify</a></h3>
+    </td>
+    <td>
+       <img src="https://github.com/mattiamoneta/vite-boolflix/raw/master/thumbnail.gif" height="160"/>
+        <h3><a href="#">Boolfix</a></h3>
+    </td>
+  </tr>
+ <table>
+
 
 <div align="center">
      <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
