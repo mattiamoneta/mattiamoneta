@@ -35,22 +35,22 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattiamoneta&label=Profile%20views&color=0e75b6&style=flat" alt="mattiamoneta" /> </p>
 
 
-<h1>👨‍💻 Showcase Preview</h1>
+<h1>👨‍💻 Portfolio</h1>
 <p>Una veloce anteprima di alcuni dei miei lavori top su GitHub!</p>
 
 <table>
   <tr>
     <td>
      <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
-      <h3 align="center"><a href="#">Spotify</a></h3>
+      <h3 align="center"><a href="https://github.com/mattiamoneta/html-css-spotifyweb">Spotify</a></h3>
     </td>
     <td>
        <img src="https://github.com/mattiamoneta/vite-boolflix/raw/master/thumbnail.gif" height="160"/>
-        <h3  align="center"><a href="#">Boolfix</a></h3>
+        <h3  align="center"><a href="https://github.com/mattiamoneta/vite-boolflix">Boolfix</a></h3>
     </td>
      <td>
              <img src="https://github.com/mattiamoneta/htmlcss-discord/raw/main/thumbnail.gif" height="160"/>
-      <h3 align="center"><a href="#">Discord</a></h3>
+      <h3 align="center"><a href="https://github.com/mattiamoneta/htmlcss-discord">Discord</a></h3>
     </td>
   </tr>
  <table>
@@ -59,15 +59,15 @@
   <tr>
     <td>
          <img src="https://github.com/mattiamoneta/js-campominato-dom/raw/main/thumbnail.gif" height="160"/>
-         <h3  align="center"><a href="#">JS Campo Minato</a></h3
+         <h3  align="center"><a href="https://github.com/mattiamoneta/js-campominato-dom">JS Campo Minato</a></h3
     </td>
     <td>
             <img src="https://github.com/mattiamoneta/laravel-dc-comics/raw/master/thumbnail.gif" height="160"/>
-         <h3  align="center"><a href="#">Laravel Comics</a></h3>
+         <h3  align="center"><a href="https://github.com/mattiamoneta/laravel-dc-comics">Laravel Comics</a></h3>
     </td>
     <td>
                   <img src="https://github.com/mattiamoneta/vue-boolzapp/raw/main/thumbnail.gif" height="160"/>
-         <h3  align="center"><a href="#">Boolzapp</a></h3>
+         <h3  align="center"><a href="https://github.com/mattiamoneta/vue-boolzapp">Boolzapp</a></h3>
     </td>
   </tr>
  <table>
