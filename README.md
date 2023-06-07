@@ -1,16 +1,13 @@
-<h5 align="center"> 
+<h4 align="center"> 
   Ciao 👋, sono
-</h5>
+</h4>
 <h1 align="center">
-  Mattia
+  - Mattia -
 </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattiamoneta&label=Profile%20views&color=0e75b6&style=flat" alt="mattiamoneta" /> </p>
 
-<hr/>
-
-
-
+## Info
 
 <h3 align="center">Social:</h3>
 <p align="center">
