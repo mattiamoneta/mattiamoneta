@@ -33,8 +33,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattiamoneta&label=Profile%20views&color=0e75b6&style=flat" alt="mattiamoneta" /> </p>
 
 
-#Progetti
+<h1>Showcase</h1>
 
 <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="200"/>
 <img src="https://github.com/mattiamoneta/vite-boolflix/raw/master/thumbnail.gif" height="200"/>
+<img src="https://github.com/mattiamoneta/htmlcss-discord/raw/main/thumbnail.gif" height="200"/>
+<img src="https://github.com/mattiamoneta/vue-boolzapp/raw/main/thumbnail.gif" height="200"/>
+<img src="https://github.com/mattiamoneta/laravel-dc-comics/raw/master/thumbnail.gif" height="200"/>
 
