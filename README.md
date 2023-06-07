@@ -81,17 +81,17 @@
 
 <span>
       <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
-      <h3 align="center"><a href="#">Spotify</a></h3>  
+      <strong align="center"><a href="#">Spotify</a></strong>  
 </span>
 
 <span>
       <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
-      <h3 align="center"><a href="#">Spotify</a></h3>  
+      <strong align="center"><a href="#">Spotify</a></strong>   
 </span>
 
 <span>
       <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
-      <h3 align="center"><a href="#">Spotify</a></h3>  
+       <strong align="center"><a href="#">Spotify</a></strong>  
 </span>
 
 
