@@ -1,5 +1,8 @@
-<h1 align="center"> 
-  Ciao 👋, sono Mattia 
+<h3 align="center"> 
+  Ciao 👋, sono
+</h3>
+<h1 align="center">
+  Mattia
 </h1>
 <h3 align="center"> Jr Full-Stack Web Developer</h3>
 
