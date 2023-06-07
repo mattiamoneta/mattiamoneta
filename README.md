@@ -35,7 +35,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattiamoneta&label=Profile%20views&color=0e75b6&style=flat" alt="mattiamoneta" /> </p>
 
 
-<h1>Showcase</h1>
+<h1>👨‍💻 Showcase Preview</h1>
+<p>Una veloce anteprima di alcuni dei miei lavori top su GitHub!</p>
 
 
 <table border="0">
