@@ -79,15 +79,20 @@
 </table>
 
 
+<span>
+      <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
+      <h3 align="center"><a href="#">Spotify</a></h3>  
+</span>
 
+<span>
+      <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
+      <h3 align="center"><a href="#">Spotify</a></h3>  
+</span>
 
-
-
-  
-
-
-
-
+<span>
+      <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
+      <h3 align="center"><a href="#">Spotify</a></h3>  
+</span>
 
 
 
