@@ -39,7 +39,7 @@
 
 
 <h1>👨‍💻 Portfolio</h1>
-<p>Una veloce anteprima di alcuni dei miei lavori top su GitHub!</p>
+<p>Una veloce anteprima di alcuni dei miei lavori su GitHub!</p>
 <br />
 <br />
 
