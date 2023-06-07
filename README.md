@@ -1,5 +1,7 @@
-<h1 align="center"> Ciao 👋, sono Mattia </h1>
-**`Jr Full-Stack Web Developer`**
+<h1 align="center"> 
+  Ciao 👋, sono Mattia 
+</h1>
+<h3 align="center"> Jr Full-Stack Web Developer`</h3>
 
 
 
