@@ -42,11 +42,11 @@
   <tr>
     <td>
      <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
-      <h3><a href="#">Spotify</a></h3>
+      <h3 align="center"><a href="#">Spotify</a></h3>
     </td>
     <td>
        <img src="https://github.com/mattiamoneta/vite-boolflix/raw/master/thumbnail.gif" height="160"/>
-        <h3><a href="#">Boolfix</a></h3>
+        <h3  align="center"><a href="#">Boolfix</a></h3>
     </td>
   </tr>
  <table>
@@ -59,7 +59,7 @@
     </td>
     <td>
                   <img src="https://github.com/mattiamoneta/vue-boolzapp/raw/main/thumbnail.gif" height="160"/>
-         <h3><a href="#">Boolzapp</a></h3>
+         <h3  align="center"><a href="#">Boolzapp</a></h3>
     </td>
   </tr>
  <table>
@@ -68,27 +68,16 @@
   <tr>
     <td>
            <img src="https://github.com/mattiamoneta/laravel-dc-comics/raw/master/thumbnail.gif" height="160"/>
-         <h3><a href="#">Laravel Comics</a></h3>
+         <h3  align="center"><a href="#">Laravel Comics</a></h3>
     </td>
     <td>
-       <img src="https://github.com/mattiamoneta/vite-boolflix/raw/master/thumbnail.gif" height="160"/>
-        <h3><a href="#">Boolfix</a></h3>
+            <img src="https://github.com/mattiamoneta/js-campominato-dom/raw/main/thumbnail.gif" height="160"/>
+         <h3  align="center"><a href="#">JS Campo Minato</a></h3
     </td>
   </tr>
  <table>
    
-   <table>
-  <tr>
-    <td>
-     <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
-      <h3><a href="#">Spotify</a></h3>
-    </td>
-    <td>
-          <img src="https://github.com/mattiamoneta/js-campominato-dom/raw/main/thumbnail.gif" height="160"/>
-         <h3><a href="#">JS Campo Minato</a></h3
-    </td>
-  </tr>
- <table>
+
 
 
 
