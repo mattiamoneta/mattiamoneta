@@ -12,11 +12,11 @@
   </p>
  
 
-<p align="center">
+<div align="center">
   <br />
   <br />
      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu elit volutpat, viverra elit non, ultrices risus. Sed ut erat a neque mollis eleifend quis in ligula. Curabitur faucibus leo ut pulvinar consectetur. Cras neque diam, fermentum in auctor eget, pulvinar in felis. Cras lorem enim, porta ac quam id, interdum vestibulum sem. Ut vel risus efficitur, euismod eros placerat, mollis odio. Vivamus eget ante aliquam, fermentum sapien eget, congue nisi. Donec laoreet a lectus a hendrerit. 
-</p>
+</div>
   
  
  <div>
