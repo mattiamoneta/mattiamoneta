@@ -32,3 +32,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattiamoneta&label=Profile%20views&color=0e75b6&style=flat" alt="mattiamoneta" /> </p>
 
+
+#Progetti
+
+<img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="200"/>
+<img src="https://github.com/mattiamoneta/vite-boolflix/raw/master/thumbnail.gif" height="200"/>
+
