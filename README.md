@@ -8,6 +8,10 @@
   <h3 align="center">Ciao 👋, sono Mattia</h3>
 
   <p align="center">
+    <strong>Jr Full Stack Web Developer</strong>
+  </p>
+  
+  <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
