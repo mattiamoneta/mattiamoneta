@@ -67,7 +67,7 @@
        <h3 align="center"><a href="https://github.com/mattiamoneta/js-campominato-dom">JS Campo Minato</a></h3
     </td>
     <td>
-       <img src="https://github.com/mattiamoneta/laravel-dc-comics/raw/master/thumbnail.gif" height="160"/><
+       <img src="https://github.com/mattiamoneta/laravel-dc-comics/raw/master/thumbnail.gif" height="160"/>
        <h3 align="center"><a href="https://github.com/mattiamoneta/laravel-dc-comics">Laravel Comics</a></h3>
     </td>
     <td>
