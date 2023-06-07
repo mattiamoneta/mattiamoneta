@@ -1,10 +1,9 @@
 <h3 align="center"> 
   Ciao 👋, sono
 </h3>
-<p align="center">
+<h1 align="center">
   ## Mattia
-</p>
-<h3 align="center"> Jr Full-Stack Web Developer</h3>
+</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattiamoneta&label=Profile%20views&color=0e75b6&style=flat" alt="mattiamoneta" /> </p>
 
