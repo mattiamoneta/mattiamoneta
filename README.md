@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mattiamoneta">
-    <img src="https://avatars.githubusercontent.com/u/115648465?s=400&v=4" alt="Logo" width="130" height="130" style="border-radius: 50%;">
+    <img src="https://avatars.githubusercontent.com/u/115648465?s=400&v=4" alt="Logo" width="130" height="130">
   </a>
 
   <h3 align="center">Ciao 👋, sono Mattia</h3>
