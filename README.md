@@ -18,18 +18,7 @@
      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu elit volutpat, viverra elit non, ultrices risus. Sed ut erat a neque mollis eleifend quis in ligula. Curabitur faucibus leo ut pulvinar consectetur. Cras neque diam, fermentum in auctor eget, pulvinar in felis. Cras lorem enim, porta ac quam id, interdum vestibulum sem. Ut vel risus efficitur, euismod eros placerat, mollis odio. Vivamus eget ante aliquam, fermentum sapien eget, congue nisi. Donec laoreet a lectus a hendrerit. 
 </div>
   
-<div align="center">
-    <table >
-     <tr>
-        <td><b>Latest Tweets</b></td>
-        <td><b>daily.dev</b></td>
-     </tr>
-     <tr>
-       <td><a href="https://twitter.com/sunilsapkota09"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=sunilsapkota09" alt="sunil sapkota twitter" > </img></a></td>
-        <td> <a href="https://app.daily.dev/sunil-9"><img src="https://api.daily.dev/devcards/426421ecec8c4819927d5698b72edced.png?r=5tr" width="400" alt="sunil sapkota's Dev Card"/></a></td>
-     </tr>
-    </table>
-    </div>
+
   
  
  <div>
@@ -48,48 +37,44 @@
 
 <h1>Showcase</h1>
 
+
 <table>
   <tr>
     <td>
       <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
       <h3><a href="#">Spotify</a></h3>
     </td>
-   <tr>
-     
-  <tr>
-    <td>
+     <td>
       <img src="https://github.com/mattiamoneta/vite-boolflix/raw/master/thumbnail.gif" height="160"/>
         <h3><a href="#">Boolfix</a></h3>
     </td>
-  <tr>
+   <tr>
+    
      
   <tr>
     <td>
       <img src="https://github.com/mattiamoneta/htmlcss-discord/raw/main/thumbnail.gif" height="160"/>
       <h3><a href="#">Discord</a></h3>
     </td>
-   <tr>
-     
-  <tr>
     <td>
         <img src="https://github.com/mattiamoneta/vue-boolzapp/raw/main/thumbnail.gif" height="160"/>
          <h3><a href="#">Boolzapp</a></h3>
     </td>
-  <tr>
+   <tr>
+     
      
   <tr>
     <td>
         <img src="https://github.com/mattiamoneta/laravel-dc-comics/raw/master/thumbnail.gif" height="160"/>
          <h3><a href="#">Laravel Comics</a></h3>
     </td>
-   <tr>
-     
-  <tr>
-    <td>
+     <td>
         <img src="https://github.com/mattiamoneta/js-campominato-dom/raw/main/thumbnail.gif" height="160"/>
          <h3><a href="#">JS Campo Minato</a></h3>
     </td>
- <tr>
+   <tr>
+     
+
 </table>
 
 
