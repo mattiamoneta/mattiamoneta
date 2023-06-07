@@ -25,9 +25,10 @@
     <br />
     Mi trovi anche su:
     <br />
-    <a href="https://www.linkedin.com/in/mattia-moneta-developer/">LinkedIn</a>
-    ·
-    <a href="https://stackoverflow.com/users/22037958/mattiamoneta">Stack Overflow</a>
+     <p align="center">
+        <a href="https://linkedin.com/in/mattia-moneta-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattia-moneta-developer" height="20" width="30" /></a>
+          <a href="https://stackoverflow.com/users/22037958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22037958" height="20" width="30" /></a>
+        </p>
   </p>
 </div>
 
@@ -35,10 +36,7 @@
 
 ## Info
 
-<h3 align="center">Social:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/mattia-moneta-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattia-moneta-developer" height="20" width="30" /></a>
-</p>
+
 
 <h3 align="center">Tecnologie utilizzate:</h3>
 <p align="center"> 
