@@ -8,6 +8,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattiamoneta&label=Profile%20views&color=0e75b6&style=flat" alt="mattiamoneta" /> </p>
 
+<hr/>
+
+
+
+
 <h3 align="center">Social:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/mattia-moneta-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattia-moneta-developer" height="20" width="30" /></a>
