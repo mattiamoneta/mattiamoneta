@@ -1,4 +1,4 @@
-<!-- PROJECT LOGO -->
+<!-- HEADING -->
 <br />
 <div align="center">
   <a href="https://github.com/mattiamoneta">
@@ -12,15 +12,14 @@
   </p>
  
 
+<!-- DESCRIZIONE INIZIALE -->
 <div align="center">
   <br />
   <br />
      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu elit volutpat, viverra elit non, ultrices risus. Sed ut erat a neque mollis eleifend quis in ligula. Curabitur faucibus leo ut pulvinar consectetur. Cras neque diam, fermentum in auctor eget, pulvinar in felis. Cras lorem enim, porta ac quam id, interdum vestibulum sem. Ut vel risus efficitur, euismod eros placerat, mollis odio. Vivamus eget ante aliquam, fermentum sapien eget, congue nisi. Donec laoreet a lectus a hendrerit. 
 </div>
   
-
-  
- 
+ <!-- SOCIAL LINKS -->
  <div>
     <br />
     <br />
@@ -32,6 +31,7 @@
   </p>
 </div>
 
+<!-- COUNTER VISITE -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattiamoneta&label=Profile%20views&color=0e75b6&style=flat" alt="mattiamoneta" /> </p>
 
 <br />
@@ -43,6 +43,7 @@
 <br />
 <br />
 
+<!-- PROGETTO 1 -->
 <table>
   <tr>
     <td>
@@ -60,6 +61,7 @@
   </tr>
  <table>
    
+   <!-- PROGETTO 2 -->
   <table>
   <tr>
     <td>
