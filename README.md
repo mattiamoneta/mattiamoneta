@@ -44,13 +44,13 @@
 <br />
 
 <!-- PROGETTO 1 -->
-<table border="0">
-  <tr border="0">
-    <td border="0">
+<table>
+  <tr>
+    <td>
       <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
       <h3 align="center"><a href="https://github.com/mattiamoneta/html-css-spotifyweb">Spotify</a></h3>
     </td>
-    <td border="0">
+    <td>
       <img src="https://github.com/mattiamoneta/vite-boolflix/raw/master/thumbnail.gif" height="160"/>
       <h3 align="center"><a href="https://github.com/mattiamoneta/vite-boolflix">Boolfix</a></h3>
     </td>
