@@ -40,7 +40,7 @@
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github.com/mattiamoneta/html-css-spotifyweb/raw/main/thumbnail.gif" height="160"/>
       <h3><a href="#">Spotify</a></h3>
     </td>
