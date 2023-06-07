@@ -10,8 +10,15 @@
   <p align="center">
     <strong>Jr Full Stack Web Developer</strong>
   </p>
+ 
+
+<p align="center">
+  <br />
+  <br />
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu elit volutpat, viverra elit non, ultrices risus. Sed ut erat a neque mollis eleifend quis in ligula. Curabitur faucibus leo ut pulvinar consectetur. Cras neque diam, fermentum in auctor eget, pulvinar in felis. Cras lorem enim, porta ac quam id, interdum vestibulum sem. Ut vel risus efficitur, euismod eros placerat, mollis odio. Vivamus eget ante aliquam, fermentum sapien eget, congue nisi. Donec laoreet a lectus a hendrerit. 
+</p>
   
-  <p align="center">
+    <p align="center">
      <br />
     <br />
     Mi trovi anche su:
@@ -21,10 +28,6 @@
     <a href="https://stackoverflow.com/users/22037958/mattiamoneta">Stack Overflow</a>
   </p>
 </div>
-
-<p align="center">
-     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu elit volutpat, viverra elit non, ultrices risus. Sed ut erat a neque mollis eleifend quis in ligula. Curabitur faucibus leo ut pulvinar consectetur. Cras neque diam, fermentum in auctor eget, pulvinar in felis. Cras lorem enim, porta ac quam id, interdum vestibulum sem. Ut vel risus efficitur, euismod eros placerat, mollis odio. Vivamus eget ante aliquam, fermentum sapien eget, congue nisi. Donec laoreet a lectus a hendrerit. 
-</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattiamoneta&label=Profile%20views&color=0e75b6&style=flat" alt="mattiamoneta" /> </p>
 
