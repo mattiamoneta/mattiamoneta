@@ -17,10 +17,10 @@
   <br />
   <br />
   <br />
-  <h3>Due parole su di me</h3>
+  <h3>- Due parole su di me -</h3>
   <br />
-   <p align="left">
-     👨‍💻 Affascinato da sempre dal mondo tech, coltivo da anni la passione per il coding: prima da autodidatta e ora come professionista.
+   <p>
+👨‍💻 Affascinato da sempre dal mondo tech, coltivo da anni la passione per il coding: prima da autodidatta e ora come professionista.
 
 💎 Il mio punto di forza è il front-end: mi piace realizzare progetti dinamici dalla grafica accattivante e ben curata, anche nei dettagli!
 
