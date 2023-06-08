@@ -14,9 +14,16 @@
 
 <!-- DESCRIZIONE INIZIALE -->
 <div align="center">
+  <h4>Due parole su di me</h4>
   <br />
   <br />
-     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu elit volutpat, viverra elit non, ultrices risus. Sed ut erat a neque mollis eleifend quis in ligula. Curabitur faucibus leo ut pulvinar consectetur. Cras neque diam, fermentum in auctor eget, pulvinar in felis. Cras lorem enim, porta ac quam id, interdum vestibulum sem. Ut vel risus efficitur, euismod eros placerat, mollis odio. Vivamus eget ante aliquam, fermentum sapien eget, congue nisi. Donec laoreet a lectus a hendrerit. 
+   <p>
+     👨‍💻 Affascinato da sempre dal mondo tech, coltivo da anni la passione per il coding: prima da autodidatta e ora come professionista.
+
+💎 Il mio punto di forza è il front-end: mi piace realizzare progetti dinamici dalla grafica accattivante e ben curata, anche nei dettagli!
+
+📖 Sono curioso di natura: mi piace apprendere da settori all'infuori del mio e costruire nuove competenze trasversali.
+  </p>
 </div>
   
  <!-- SOCIAL LINKS -->
