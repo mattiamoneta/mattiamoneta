@@ -5,7 +5,7 @@
     <img src="https://github.com/mattiamoneta/mattiamoneta/blob/main/github-cover.png" alt="Logo">
   </a>
 
-  <h3 align="center">Ciao 👋, sono Mattia</h3>
+  <h1 align="center">Ciao 👋</h1>
 
   <p align="center">
     <strong>Jr Full Stack Web Developer</strong>
