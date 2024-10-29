@@ -20,22 +20,13 @@
   <h3>- Due parole su di me -</h3>
   <br />
    <p>
-     
-
-
-
-
-
-
 <table border="0">
- <tr  border="0">
-    <td  border="0">👨‍💻 Da sempre affascinato dal mondo della tecnologia, ho trasformato la mia passione per il coding da autodidatta in una carriera professionale.</td>
-    <td  border="0"> 💎 Specializzato nel front-end, mi dedico alla creazione di interfacce dinamiche e visivamente accattivanti, con un'attenzione maniacale ai dettagli.</td>
-   <td  border="0">📖 Spinto dalla mia naturale curiosità, esploro continuamente nuovi settori per acquisire competenze trasversali e ampliare il mio bagaglio di conoscenze.</td>
- </tr>
+  <tr>
+    <td>👨‍💻 Da sempre affascinato dal mondo della tecnologia, ho trasformato la mia passione per il coding da autodidatta in una carriera professionale.</td>
+    <td>💎 Specializzato nel front-end, mi dedico alla creazione di interfacce dinamiche e visivamente accattivanti, con un'attenzione maniacale ai dettagli.</td>
+    <td>📖 Spinto dalla mia naturale curiosità, esploro continuamente nuovi settori per acquisire competenze trasversali e ampliare il mio bagaglio di conoscenze.</td>
+  </tr>
 </table>
-
-| 👨‍💻 Da sempre affascinato dal mondo della tecnologia, ho trasformato la mia passione per il coding da autodidatta in una carriera professionale   |💎 Specializzato nel front-end, mi dedico alla creazione di interfacce dinamiche e visivamente accattivanti, con un'attenzione maniacale ai dettagli.  | 📖 Spinto dalla mia naturale curiosità, esploro continuamente nuovi settori per acquisire competenze trasversali e ampliare il mio bagaglio di conoscenze.  |
 
   </p>
 </div>
