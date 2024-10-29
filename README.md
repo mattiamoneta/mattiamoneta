@@ -21,11 +21,12 @@
   <br />
    <p>
      
-> 👨‍💻 Affascinato da sempre dal mondo tech, coltivo da anni la passione per il coding: prima da autodidatta e ora come professionista.
+👨‍💻 Da sempre affascinato dal mondo della tecnologia, ho trasformato la mia passione per il coding da autodidatta in una carriera professionale.
 
-> 💎 Il mio punto di forza è il front-end: mi piace realizzare progetti dinamici dalla grafica accattivante e ben curata, anche nei dettagli!
+💎 Specializzato nel front-end, mi dedico alla creazione di interfacce dinamiche e visivamente accattivanti, con un'attenzione maniacale ai dettagli.
 
-> 📖 Sono curioso di natura: mi piace apprendere da settori all'infuori del mio e costruire nuove competenze trasversali.
+📖 Spinto dalla mia naturale curiosità, esploro continuamente nuovi settori per acquisire competenze trasversali e ampliare il mio bagaglio di conoscenze.
+
   </p>
 </div>
   
