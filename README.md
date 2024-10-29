@@ -28,14 +28,10 @@
 
 
 <table border="0">
- <tr>
-    <td>👨‍💻 Da sempre affascinato dal mondo della tecnologia, ho trasformato la mia passione per il coding da autodidatta in una carriera professionale.</td>
-    <td>💎 Specializzato nel front-end, mi dedico alla creazione di interfacce dinamiche e visivamente accattivanti, con un'attenzione maniacale ai dettagli.</td>
-   <td>📖 Spinto dalla mia naturale curiosità, esploro continuamente nuovi settori per acquisire competenze trasversali e ampliare il mio bagaglio di conoscenze.</td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+ <tr  border="0">
+    <td  border="0">👨‍💻 Da sempre affascinato dal mondo della tecnologia, ho trasformato la mia passione per il coding da autodidatta in una carriera professionale.</td>
+    <td>  border="0"💎 Specializzato nel front-end, mi dedico alla creazione di interfacce dinamiche e visivamente accattivanti, con un'attenzione maniacale ai dettagli.</td>
+   <td  border="0">📖 Spinto dalla mia naturale curiosità, esploro continuamente nuovi settori per acquisire competenze trasversali e ampliare il mio bagaglio di conoscenze.</td>
  </tr>
 </table>
 
