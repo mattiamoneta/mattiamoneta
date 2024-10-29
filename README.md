@@ -30,10 +30,16 @@
 <table border="0">
  <tr  border="0">
     <td  border="0">👨‍💻 Da sempre affascinato dal mondo della tecnologia, ho trasformato la mia passione per il coding da autodidatta in una carriera professionale.</td>
-    <td>  border="0"💎 Specializzato nel front-end, mi dedico alla creazione di interfacce dinamiche e visivamente accattivanti, con un'attenzione maniacale ai dettagli.</td>
+    <td  border="0"> 💎 Specializzato nel front-end, mi dedico alla creazione di interfacce dinamiche e visivamente accattivanti, con un'attenzione maniacale ai dettagli.</td>
    <td  border="0">📖 Spinto dalla mia naturale curiosità, esploro continuamente nuovi settori per acquisire competenze trasversali e ampliare il mio bagaglio di conoscenze.</td>
  </tr>
 </table>
+
+|           |           |           |
+|-----------|-----------|-----------|
+| Testo 1   | Testo 2   | Testo 3   |
+| Testo 4   | Testo 5   | Testo 6   |
+| Testo 7   | Testo 8   | Testo 9   |
 
   </p>
 </div>
