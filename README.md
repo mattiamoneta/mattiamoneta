@@ -35,11 +35,7 @@
  </tr>
 </table>
 
-|           |           |           |
-|-----------|-----------|-----------|
-| Testo 1   | Testo 2   | Testo 3   |
-| Testo 4   | Testo 5   | Testo 6   |
-| Testo 7   | Testo 8   | Testo 9   |
+| 👨‍💻 Da sempre affascinato dal mondo della tecnologia, ho trasformato la mia passione per il coding da autodidatta in una carriera professionale   |💎 Specializzato nel front-end, mi dedico alla creazione di interfacce dinamiche e visivamente accattivanti, con un'attenzione maniacale ai dettagli.  | 📖 Spinto dalla mia naturale curiosità, esploro continuamente nuovi settori per acquisire competenze trasversali e ampliare il mio bagaglio di conoscenze.  |
 
   </p>
 </div>
