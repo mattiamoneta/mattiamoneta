@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mattiamoneta">
-    <img src="https://github.com/mattiamoneta/mattiamoneta/blob/main/github-cover.png" alt="Logo">
+    <img src="https://github.com/mattiamoneta/mattiamoneta/blob/main/github-cover-wTitle.png" alt="Logo">
   </a>
 
  <h1 align="center" style="font-size: 55pt">
