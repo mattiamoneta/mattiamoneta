@@ -11,14 +11,11 @@
   <br/>
   <p align="center">
     <a href="https://mattiamoneta.it/">
-        <img alt="total stars" title="My Website" src="https://custom-icon-badges.demolab.com/badge/Website-0C0C0C?style=for-the-badge&logoColor=black&logo=mattiamoneta"/>
-    </a>
+        <img alt="total stars" title="My Website" src="https://custom-icon-badges.demolab.com/badge/Website-0C0C0C?style=for-the-badge&logoColor=black&logo=mattiamoneta"/></a>
     <a href="https://www.linkedin.com/in/mattiamoneta">
-        <img alt="total stars" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1669bd?style=for-the-badge&logoColor=white&logo=linkedin"/>
-    </a>
+        <img alt="total stars" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1669bd?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
     <a href="https://www.behance.net/mattiamoneta">
-        <img alt="total stars" title="Behance" src="https://custom-icon-badges.demolab.com/badge/Behance-095ef8?style=for-the-badge&logoColor=white&logo=behance"/>
-    </a>
+        <img alt="total stars" title="Behance" src="https://custom-icon-badges.demolab.com/badge/Behance-095ef8?style=for-the-badge&logoColor=white&logo=behance"/></a>
   </p>
 
 <br/>
