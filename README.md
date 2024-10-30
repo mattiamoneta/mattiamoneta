@@ -4,7 +4,9 @@
     <img src="https://github.com/mattiamoneta/mattiamoneta/blob/main/github-cover-hi.png" alt="Logo">
   </a>
 
-  <h3 align="center">Sono Mattia, un <strong>web developer</strong> <br/> con una grande passione per la grafica e il <strong>design</strong>!</h3> 
+  <h3 align="center">Sono Mattia, un web developer<br/> con una forte passione per la grafica e il design!</h3>
+  <br/>
+  
   
  <!-- SOCIAL LINKS -->
  <div>
