@@ -10,7 +10,7 @@
    <p align="center">
 
   <a href="https://mattiamoneta.it/">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/-Website?color=%0C0C0C&style=for-the-badge&logoColor=black&logo=mattiamoneta"/></a>
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/-Website?color=0C0C0C&style=for-the-badge&logoColor=black&logo=mattiamoneta"/></a>
 
   <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened"/></a>
