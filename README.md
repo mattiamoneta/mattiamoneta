@@ -23,18 +23,11 @@
    
 </p>
 
-<p style="margin:150px;"></p>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<!-- LANGS -->
-<div>
-<p align="center">
-    <img alt="Vue3" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-    <img alt="JavaScript" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img  alt="ThreeJS" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
-</p>
-</div>
-
-<p style="margin:150px;"></p>
 
 <!-- COUNTER VISITE -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattiamoneta&label=Profile%20views&color=0e75b6&style=flat" alt="mattiamoneta" /> </p>
