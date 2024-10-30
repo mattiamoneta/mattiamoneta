@@ -7,28 +7,31 @@
   <h3 align="center">Sono Mattia, un web developer<br/> con una forte passione per la grafica e il design!</h3>
   <br/>
 
-   <p align="center">
+<p align="center">
 
- <a href="https://mattiamoneta.it/">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Website-0C0C0C?style=for-the-badge&logoColor=black&logo=mattiamoneta"/>
-</a>
+  <a href="https://mattiamoneta.it/">
+      <img alt="total stars" title="My Website" src="https://custom-icon-badges.demolab.com/badge/Website-0C0C0C?style=for-the-badge&logoColor=black&logo=mattiamoneta"/>
+  </a>
 
-  <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened"/></a>
+  <a href="https://mattiamoneta.it/">
+      <img alt="total stars" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1669bd?style=for-the-badge&logoColor=white&logo=linkedin"/>
+  </a>
 
-  <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened"/></a>
-     
-
-      
-   </p>
+  <a href="https://mattiamoneta.it/">
+      <img alt="total stars" title="Behance" src="https://custom-icon-badges.demolab.com/badge/Behance-095ef8?style=for-the-badge&logoColor=white&logo=behance"/>
+  </a>
+   
+</p>
 
 <!-- LANGS -->
-  <p align="center">
-      <img align="left" alt="Vue3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-      <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-      <img align="left" alt="ThreeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
-  </p>
+<p align="center">
+    <img align="left" alt="Vue3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+    <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img align="left" alt="ThreeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
+</p>
+
+<br/>
+
 
   
  <!-- SOCIAL LINKS -->
