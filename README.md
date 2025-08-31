@@ -1,7 +1,7 @@
 <!-- HEADING -->
 <div align="center">
   <a href="https://github.com/mattiamoneta">
-    <img src="https://github.com/mattiamoneta/mattiamoneta/blob/main/github-cover-hi.png" alt="Logo">
+    <img src="https://github.com/mattiamoneta/mattiamoneta/blob/main/github-cover.png" alt="Logo">
   </a>
 
   <h3 align="center">Sono Mattia, un web  <br/> developer che vive di tecnologia e design!</h3>
